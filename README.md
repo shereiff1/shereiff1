@@ -69,6 +69,7 @@
 
 <br/>
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -78,6 +79,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shereiff1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&title_color=ffffff" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shereiff1/shereiff1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shereiff1/shereiff1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shereiff1/shereiff1/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <a href="https://profile-counter.glitch.me/shereiff1/count.svg">
@@ -89,10 +96,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shereiff1/shereiff1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shereiff1/shereiff1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shereiff1/shereiff1/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
